@@ -1,5 +1,8 @@
 # Predictive Maintenance: Machine Failure Prediction
 
+## Live Demo
+[Open the app](https://machine-failure-predictorr.streamlit.app/)
+
 Machine learning project that predicts machine failure from sensor data
 using the AI4I 2020 dataset (UCI, 10,000 rows, about 3.4% failures).
 
